@@ -7,7 +7,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart';
 import 'package:visibility_detector/visibility_detector.dart';
 
-import 'package:elastic_dashboard/services/log.dart';
+import 'package:elastic_dashboard_3061/services/log.dart';
 
 /// A preprocessor for each JPEG frame from an MJPEG stream.
 class MjpegPreprocessor {
