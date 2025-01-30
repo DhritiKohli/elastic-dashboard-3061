@@ -1,6 +1,6 @@
-#define MyAppName "Elastic"
-#define MyAppFolderName "FRC Elastic"
-#define MyAppPublisher "Gold87"
+#define MyAppName "Elastic 3061"
+#define MyAppFolderName "FRC Elastic 3061"
+#define MyAppPublisher "Huskie Robotics"
 #define MyAppURL "https://github.com/gold872/elastic-dashboard/"
 #define MyAppExeName "elastic_dashboard_3061.exe"
 #define AppVersionName GetStringFileInfo('build\windows\x64\runner\Release\elastic_dashboard_3061.exe', 'ProductVersion')
@@ -9,7 +9,7 @@
 [Setup]
 ; NOTE: The value of AppId uniquely identifies this application. Do not use the same AppId value in installers for other applications.
 ; (To generate a new GUID, click Tools | Generate GUID inside the IDE.)
-AppId={{2746922E-A2AC-4987-AF02-714F429C7C77}
+AppId={{D4E1A1B2-3C4D-5E6F-7A8B-9C0D1E2F3A4B}
 AppName={#MyAppName}
 AppVersion={#ApplicationVersion}
 AppVerName={#MyAppName} {#AppVersionName}
